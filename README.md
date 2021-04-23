@@ -5,6 +5,7 @@
 
 (GUI, JDBC, Multithreading)
 This is a Server-Client application.
+
 2 run programs:
 1) Admin: He manages the data in the database. Can add, remove, update, also display suppliers
 2) Regular user (Supplier): logs into the application using his ID, view his data, as well as limited information about other supplies
